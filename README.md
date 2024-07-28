@@ -32,7 +32,14 @@ AWS Docker K8s git
 pandas numpy Assembly bootstrap jQuery MUI express
 Hibernate postman swagger
 
+
     🌟Key Skills and Strengths
+----------
+
+    📫How to Reach Me
+
+(M) c0548550404@gmail.com
+
 
 
 
