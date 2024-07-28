@@ -6,9 +6,9 @@ willingness and motivation to invest, loves the field and strives to advance in 
 
     💭About Me
 
--💻 Full-stack developer
+-Full-stack developer
 
--🌐 Proficient in frontend and backend technologies
+-Proficient in frontend and backend technologies
 
  - Proven ability to work effectively in a team, strong interpersonal skills, empathy, and exceptional work ethic.
 
