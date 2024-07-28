@@ -1,13 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm chaya
 
-<!--
-**chayakno/chayakno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Full Stack Developer with a strong programming thinking and talent in the real world professions, high self-learning ability,
+responsibility and resistance to stressful situations. High interpersonal communication,
+willingness and motivation to invest, loves the field and strives to advance in it.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+💭About Me
+
+💻 Full-stack developer
+
+🌐 Proficient in frontend and backend technologies
+
 - 👯 I’m looking to collaborate on ...
+- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
