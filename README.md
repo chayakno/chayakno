@@ -6,8 +6,6 @@ willingness and motivation to invest, loves the field and strives to advance in 
 
     💭About Me
 
-
-
 -💻 Full-stack developer
 
 -🌐 Proficient in frontend and backend technologies
@@ -24,7 +22,15 @@ willingness and motivation to invest, loves the field and strives to advance in 
 
 
     🛠Languages and Tools
-
+   
+Java c# c nodejs nestjs python
+Angular react  Entity-Framework, WinForms, Design Pattern  .NET Core 
+mongodb sqlserver css3 html5 
+visual studio visual studio code eclipse netbeans pycharm
+javascript typescript
+AWS Docker K8s git
+pandas numpy Assembly bootstrap jQuery MUI express
+Hibernate postman swagger
 
     🌟Key Skills and Strengths
 
