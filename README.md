@@ -1,13 +1,11 @@
     Hi 👋 I'm chaya
-    ------------------
 
 I am Full Stack Developer with a strong programming thinking and talent in the real world professions, high self-learning ability,
 responsibility and resistance to stressful situations. High interpersonal communication,
 willingness and motivation to invest, loves the field and strives to advance in it.
 
     💭About Me
-    ---------------
-
+    
 -Full-stack developer
 
 -Proficient in frontend and backend technologies
@@ -37,7 +35,7 @@ Hibernate postman swagger
 
 
     📫How to Reach Me
-    --------------
+
 
 (M) c0548550404@gmail.com
 
