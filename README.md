@@ -1,10 +1,12 @@
     Hi 👋 I'm chaya
+    ------------------
 
 I am Full Stack Developer with a strong programming thinking and talent in the real world professions, high self-learning ability,
 responsibility and resistance to stressful situations. High interpersonal communication,
 willingness and motivation to invest, loves the field and strives to advance in it.
 
     💭About Me
+    ---------------
 
 -Full-stack developer
 
@@ -22,6 +24,7 @@ willingness and motivation to invest, loves the field and strives to advance in 
 
 
     🛠Languages and Tools
+   -----------------
    
 Java c# c nodejs nestjs python
 Angular react  Entity-Framework, WinForms, Design Pattern  .NET Core 
@@ -33,8 +36,8 @@ pandas numpy Assembly bootstrap jQuery MUI express
 Hibernate postman swagger
 
 
----------
     📫How to Reach Me
+    --------------
 
 (M) c0548550404@gmail.com
 
