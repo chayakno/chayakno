@@ -27,7 +27,7 @@ responsibility and resistance to stressful situations. High interpersonal commun
 - Experienced in Agile development methodologies and proficient in React-vite, NestJS, and Mongoose.
 
 
-    🛠Languages and Tools
+    Languages and Tools
    ----------
    
     
@@ -40,8 +40,9 @@ AWS Docker K8s git
 pandas numpy Assembly bootstrap jQuery MUI express
 Hibernate postman swagger
 
-
+-
     📫How to Reach Me
+    -----
     
     
     (M) c0548550404@gmail.com
