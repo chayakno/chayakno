@@ -28,6 +28,7 @@ willingness and motivation to invest, loves the field and strives to advance in 
 
 
     🛠Languages and Tools
+   ----------
    
     
 Java c# c nodejs nestjs python
@@ -42,9 +43,7 @@ Hibernate postman swagger
 
     📫How to Reach Me
     
-
-
-(M) c0548550404@gmail.com
+    (M) c0548550404@gmail.com
 
 
 
