@@ -1,6 +1,7 @@
-
+-
     
     Hi 👋 I'm chaya
+    ------
 
 
 I am Full Stack Developer with a strong programming thinking and talent in the real world professions, high self-learning ability,
