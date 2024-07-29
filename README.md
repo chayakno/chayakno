@@ -12,19 +12,19 @@ willingness and motivation to invest, loves the field and strives to advance in 
 
 
     
--Full-stack developer
+  -Full-stack developer
 
--Proficient in frontend and backend technologies
+  -Proficient in frontend and backend technologies
 
- - Proven ability to work effectively in a team, strong interpersonal skills, empathy, and exceptional work ethic.
+  - Proven ability to work effectively in a team, strong interpersonal skills, empathy, and exceptional work ethic.
 
- - Quick learner with a talent for identifying and resolving complex problems.
+  - Quick learner with a talent for identifying and resolving complex problems.
 
- - Possesses a deep understanding of code structure and can conduct thorough code analysis.
+  - Possesses a deep understanding of code structure and can conduct thorough code analysis.
 
- - Passionate about staying up-to-date with the latest technologies and industry trends.
+  - Passionate about staying up-to-date with the latest technologies and industry trends.
 
- - Experienced in Agile development methodologies and proficient in React-vite, NestJS, and Mongoose.
+  - Experienced in Agile development methodologies and proficient in React-vite, NestJS, and Mongoose.
 
 
     🛠Languages and Tools
